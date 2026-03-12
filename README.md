@@ -90,9 +90,9 @@ Insights Generation
 
 ## Dashboard Preview
 
-![Blinkit Dashboard](## Dashboard Preview
 
-![Blinkit Dashboard]()
+
+![Blinkit Dashboard(https://github.com/vishalydv-data/blinkit-sales-analysis-powerbi/blob/c9297839803481d74b594003bac50414f4ce5180/blinkit.PNG)
 
 ---
 
