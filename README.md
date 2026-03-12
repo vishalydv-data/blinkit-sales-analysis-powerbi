@@ -90,7 +90,7 @@ Insights Generation
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard]
 
 ---
 
