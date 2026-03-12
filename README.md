@@ -90,7 +90,9 @@ Insights Generation
 
 ## Dashboard Preview
 
-![Blinkit Dashboard](Images/dashboard.png)
+![Blinkit Dashboard](## Dashboard Preview
+
+![Blinkit Dashboard]()
 
 ---
 
